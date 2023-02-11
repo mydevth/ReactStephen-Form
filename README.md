@@ -2,7 +2,7 @@
 
 #### Instructor : **_Stephen Grider_**
 
-#### `Section06 : **_Handle Forms_**`
+#### `Section06 : Handle Forms`
 
 #### Contents :
 
