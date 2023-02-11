@@ -1,4 +1,4 @@
-### Course : Modern React with Redux (Section06)
+### `Course : Modern React with Redux (Section06)`
 
 #### Instructor : **_Stephen Grider_**
 
@@ -6,7 +6,7 @@
 
 #### Contents :
 
-- `Form`
+- Form
 
 #### Tools :
 
