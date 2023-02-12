@@ -1,4 +1,4 @@
-### `Course : Modern React with Redux (Section06)`
+### `Course : Modern React with Redux`
 
 #### `Section06 : Handle Forms`
 
